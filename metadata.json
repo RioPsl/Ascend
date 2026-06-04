@@ -1,0 +1,6 @@
+{
+  "name": "AscendSystems",
+  "description": "Сайт креативной веб-студии AscendSystems с интерактивным шейдерным фоном, портфолио и стратегическими решениями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
