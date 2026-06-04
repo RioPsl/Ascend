@@ -50,9 +50,26 @@ export default function Navbar() {
           {/* Logo */}
           <div 
             onClick={() => handleScroll('hero')}
-            className="w-9 h-9 sm:w-10 sm:h-10 bg-gray-900 rounded-full flex items-center justify-center cursor-pointer hover:bg-[#F26522] transition-colors duration-500"
+            className="flex items-center gap-2.5 cursor-pointer group select-none"
           >
-            <span className="text-white text-[11px] sm:text-[12px] font-bold tracking-wider">AS</span>
+            <div className="w-9 h-9 sm:w-10 sm:h-10 bg-gray-900 rounded-full flex items-center justify-center hover:bg-[#F26522] transition-colors duration-500 shadow-sm">
+              <svg 
+                viewBox="0 0 24 24" 
+                fill="none" 
+                stroke="currentColor" 
+                strokeWidth="2.5" 
+                strokeLinecap="round" 
+                strokeLinejoin="round" 
+                className="w-4 h-4 sm:w-[18px] sm:h-[18px] text-white transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]"
+              >
+                {/* Minimalist ascending vector symbol */}
+                <line x1="7" y1="17" x2="17" y2="7"></line>
+                <polyline points="10 7 17 7 17 14"></polyline>
+              </svg>
+            </div>
+            <span className="text-[14.5px] sm:text-[15.5px] font-bold tracking-[-0.02em] text-gray-900 font-sans block">
+              Ascend<span className="text-[#F26522]">Systems</span>
+            </span>
           </div>
 
           {/* Desktop Nav Links */}
