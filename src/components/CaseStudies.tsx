@@ -81,11 +81,11 @@ export default function CaseStudies() {
 
             {/* Meta */}
             <div className="mt-4 flex flex-col">
-              <span className="text-[14px] sm:text-[15px] font-semibold text-gray-900 order-1">
-                Narrativ
+              <span className="text-[15px] sm:text-[16px] font-bold text-gray-950 order-1">
+                Детейлинг «Carbon» &mdash; ИИ-агенты и автоответы
               </span>
               <p className="text-[13px] sm:text-[14px] text-gray-600 leading-relaxed mt-1.5 order-2">
-                Победитель номинации «Сайт месяца 2025» — интерактивный 3D-проект, привлекший рекордную вовлеченность.
+                Внедрение автоответчика и CRM-интеграции для перехвата звонков во внерабочее время. Спасены 42 клиента на услуги комплексного детейлинга. Инвестиция окупилась в первый день благодаря 1 посетителю на нанесение керамики.
               </p>
             </div>
           </motion.div>
@@ -127,11 +127,11 @@ export default function CaseStudies() {
 
             {/* Meta */}
             <div className="mt-4 flex flex-col">
-              <span className="text-[14px] sm:text-[15px] font-semibold text-gray-900 order-1">
-                Luminar
+              <span className="text-[15px] sm:text-[16px] font-bold text-gray-950 order-1">
+                Автосервис «МагнитАвто» &mdash; Локальное SEO и Репутация
               </span>
               <p className="text-[13px] sm:text-[14px] text-gray-600 leading-relaxed mt-1.5 order-2">
-                Трансформация устаревшей платформы в ориентированный на конверсию брендовый опыт.
+                Запуск автосбора отзывов через QR и CRM-триггеры. Выход в ТОП-3 на Яндекс.Картах в Магнитогорске. Приток новых обращений на диагностику и ремонт вырос на 45% за счёт рейтинга 4.9★. Окупилось за первый заезд на замену ГРМ.
               </p>
             </div>
           </motion.div>

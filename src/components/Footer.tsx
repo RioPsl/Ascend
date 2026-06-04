@@ -52,34 +52,34 @@ export default function Footer() {
             {/* Journal Arc 1 */}
             <div className="group flex flex-col justify-between p-6 rounded-2xl bg-gray-800/40 border border-gray-800 hover:border-gray-700/80 transition-all duration-300 h-64 cursor-pointer">
               <div>
-                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Май 2026</span>
+                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Июнь 2026</span>
                 <h4 className="text-[16px] sm:text-[18px] font-medium text-white group-hover:text-[#F26522] transition-colors duration-300 mt-2.5 leading-snug">
-                  Тренды веб-анимации на 2026 год: плавность, глубина и новые WebGL шейдеры
+                  Как автоответ за 2 секунды спасает пропущенные звонки в автосервисах, детейлинг-центрах и салонах красоты
                 </h4>
               </div>
-              <p className="text-[13px] text-gray-400">Читать статью в 3 минуты →</p>
+              <p className="text-[13px] text-gray-400">Читать разбор за 3 минуты →</p>
             </div>
 
             {/* Journal Arc 2 */}
             <div className="group flex flex-col justify-between p-6 rounded-2xl bg-gray-800/40 border border-gray-800 hover:border-gray-700/80 transition-all duration-300 h-64 cursor-pointer">
               <div>
-                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Апрель 2026</span>
+                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Май 2026</span>
                 <h4 className="text-[16px] sm:text-[18px] font-medium text-white group-hover:text-[#F26522] transition-colors duration-300 mt-2.5 leading-snug">
-                  Как стратегия проектирования UX увеличивает конверсию сайтов в сегменте премиум
+                  Формула 5★ на Яндекс.Картах и Google Maps: как фильтровать случайный негатив в приватный чат
                 </h4>
               </div>
-              <p className="text-[13px] text-gray-400">Читать статью в 5 минут →</p>
+              <p className="text-[13px] text-gray-400">Читать стратегию за 5 минут →</p>
             </div>
 
             {/* Journal Arc 3 */}
             <div className="group flex flex-col justify-between p-6 rounded-2xl bg-gray-800/40 border border-gray-800 hover:border-gray-700/80 transition-all duration-300 h-64 cursor-pointer">
               <div>
-                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Март 2026</span>
+                <span className="text-[11px] font-mono text-[#E8704E] uppercase tracking-wider">Апрель 2026</span>
                 <h4 className="text-[16px] sm:text-[18px] font-medium text-white group-hover:text-[#F26522] transition-colors duration-300 mt-2.5 leading-snug">
-                  Разработка айдентики для международных систем: опыт студии AscendSystems
+                  Почему легкий mobile-first лендинг принесет вам на 140% больше заявок, чем сложный портал
                 </h4>
               </div>
-              <p className="text-[13px] text-gray-400">Читать статью в 4 минуты →</p>
+              <p className="text-[13px] text-gray-400">Читать лонгрид за 4 минуты →</p>
             </div>
           </div>
         </div>
